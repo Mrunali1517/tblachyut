@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+#home{
+    background: linear-gradient(rgb(79, 200, 216) 0%, rgb(230, 222, 62) 100%);
+}
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 30%;
+}
+p{
+    text-align: justify;
+}
+ul{
+    list-style: none;
+    top: 10px;
+    position: fixed;
+    right:30px;
+    color: aliceblue;
+    font-family: 'Castoro Titling', cursive;
+}
+li{
+    float: left;
+    padding: 10px;
+    cursor: pointer;
+    color: brown !important;
+    text-decoration: none !important;
+}
+li:hover{
+    font-size: 25px;
+    color:blueviolet;
+}
+h1{
+    font-family: 'Chicle', cursive;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+
+}
+#contact a{
+    color: brown !important;
+    text-decoration: none !important;
+}
